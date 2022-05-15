@@ -1,0 +1,1 @@
+Surname: Ромская, name: Ольга, age: 37, position: Бухгалер

@@ -1,0 +1,2 @@
+Surname: Сугак, name: Михаил, age: 37, position: Менеджер
+Surname: Ромская, name: Ольга, age: 37, position: Бухгалер
